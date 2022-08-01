@@ -3,27 +3,6 @@
 	margin: 0;
 	padding: 0;
 }
-
-/* width */
-::-webkit-scrollbar {
-  width: 7px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #cccccc; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #404040; 
-  border-radius: 100px;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #000000; 
-	
 	
 /*Navigation*/
 #nav-bar
